@@ -1,16 +1,12 @@
-import React from 'react';
+import React from "react";
 
 class App extends React.Component {
-  constructor(){
+  constructor() {
     super();
   }
 
-  render(){
-    return (
-      <div>
-        React cinema app
-      </div>
-    )
+  render() {
+    return <div>React cinema app!</div>;
   }
 }
 
